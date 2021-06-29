@@ -1,0 +1,17 @@
+{
+  "name": "cypresspoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumit",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^5.9.1",
+    "cypress": "^7.6.0",
+    "mocha": "^9.0.1"
+  }
+}
